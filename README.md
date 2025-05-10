@@ -58,7 +58,7 @@ Un bot Discord élégant qui affiche le nombre de joueurs en ligne sur un serveu
 1. **Lancer le bot** :
 
    ```bash
-   node votre_fichier.js
+   node index.js
    ```
 
 2. **Utiliser la commande slash** :
