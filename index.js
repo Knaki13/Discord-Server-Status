@@ -47,7 +47,7 @@ async function updateActivity() {
     try {
         const result = await ping.status("**.***.*.**", 25565); // Remplacez par l'adresse IP de votre serveur 
         client.user.setActivity({
-            name: `${result.players.online} / 999 en ligne`,
+            name: `${result.players.online} / ${result.players.max} en ligne`,
             type: ActivityType.Watching
         });
     } catch (error) {
