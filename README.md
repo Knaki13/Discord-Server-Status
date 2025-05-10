@@ -1,20 +1,22 @@
-# Discord Minecraft Player Counter Bot
+# 🌟 Discord Minecraft Player Counter Bot
 
-Un bot Discord qui affiche le nombre de joueurs en ligne sur un serveur Minecraft et permet de mettre à jour cette information via une commande slash.
+Un bot Discord élégant qui affiche le nombre de joueurs en ligne sur un serveur Minecraft et permet de mettre à jour cette information via une commande slash.
 
-## Fonctionnalités
+![Discord Bot Preview](https://via.placeholder.com/600x300/000000/FFFFFF?text=Discord+Bot+Preview)
+
+## 🚀 Fonctionnalités
 
 - **Affichage du nombre de joueurs** : Le bot affiche le nombre de joueurs en ligne sur un serveur Minecraft dans son statut.
 - **Commande Slash `/update`** : Permet de mettre à jour manuellement le nombre de joueurs.
 - **Auto-update** : Le bot met à jour automatiquement le nombre de joueurs toutes les minutes.
 
-## Prérequis
+## 📋 Prérequis
 
 - Node.js (version 14 ou supérieure)
 - Un serveur Minecraft accessible
 - Un bot Discord configuré avec les intents nécessaires
 
-## Installation
+## 🛠 Installation
 
 1. **Cloner le dépôt** :
 
