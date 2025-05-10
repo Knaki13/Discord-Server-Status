@@ -2,7 +2,7 @@
 
 Un bot Discord élégant qui affiche le nombre de joueurs en ligne sur un serveur Minecraft et permet de mettre à jour cette information via une commande slash.
 
-![Bot Preview](.\imgs\exemple.png)
+![Bot Preview](./imgs/exemple.png)
 
 ## 🚀 Fonctionnalités
 
