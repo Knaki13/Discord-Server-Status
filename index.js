@@ -10,11 +10,11 @@ const client = new Client({
         GatewayIntentBits.Guilds,
         GatewayIntentBits.GuildMessages,
         GatewayIntentBits.MessageContent,
-        // Si cela ne fonctionne pas,
-        // Allez sur le Portail des Développeurs Discord.
-        // Sélectionnez votre application.
-        // Faites défiler jusqu'à la section "Privileged Gateway Intents".
-        // Activez les intents nécessaires.
+        // Si cela ne fonctionne pas
+        // Allez sur le Portail des Développeurs Discord
+        // Sélectionnez votre application
+        // Faites défiler jusqu'à la section "Privileged Gateway Intents"
+        // Activez les intents nécessaires
         // Ajoutez d'autres intents ici si nécessaire
     ],
 });
