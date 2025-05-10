@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.11.2",
+    "@discordjs/rest": "^2.5.0",
+    "discord.js": "^14.19.3",
+    "minecraft-server-util": "^5.4.4"
+  }
+}

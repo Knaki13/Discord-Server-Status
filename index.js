@@ -45,7 +45,7 @@ const rest = new REST({ version: '9' }).setToken(token);
 
 async function updateActivity() {
     try {
-        const result = await ping.status("91.197.6.80", 25751); // Remplacez par l'adresse IP de votre serveur 
+        const result = await ping.status("**.***.*.**", 25565); // Remplacez par l'adresse IP de votre serveur 
         client.user.setActivity({
             name: `${result.players.online} / 999 en ligne`,
             type: ActivityType.Watching
